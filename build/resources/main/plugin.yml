@@ -1,0 +1,7 @@
+name: Zippezin
+version: 1.0.0
+main: com.codylamer.zippezin.Zippezin
+api-version: 1.13
+depend: [Denizen]
+authors: [CodYLameR]
+description: Addon for working with archives
