@@ -1,8 +1,0 @@
-name: Zippezin
-version: 1.0
-main: com.codylamer.zippezin.Zippezin
-api-version: 1.21
-depend: [Denizen]
-author: CodYLameR
-website: https://github.com/codylamer/Zippezin
-description: Denizen Plugin for .zip Archive Management
